@@ -8,10 +8,6 @@ Welcome to the **Web-based Calculator** project! This is a simple calculator bui
 - **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
 - **User-friendly Interface**: Clean and intuitive interface for ease of use.
 
-## Preview
-
-![Calculator Screenshot]("C:\Users\ADMIN\Downloads\Screenshot 2024-06-28 103323.png")
-
 ## Technologies Used
 
 - **HTML**: For the structure of the calculator.
