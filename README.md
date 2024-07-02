@@ -2,6 +2,8 @@
 
 Welcome to the **Web-based Calculator** project! This is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+<img src="Images" alt="Screenshot of the calculator" width="400">
+
 ## Features
 
 - **Responsive Design**: The calculator is responsive and works on various devices, including desktops, tablets, and mobile phones.
@@ -54,6 +56,5 @@ If you would like to contribute to this project, please follow these steps:
     git push origin feature-branch
     ```
 5. **Open a pull request**.
-
 
 Thank you for checking out my web-based calculator project! I hope you find it useful and easy to use.
